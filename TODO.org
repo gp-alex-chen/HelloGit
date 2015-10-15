@@ -1,5 +1,6 @@
 
 * TODO 学会修改编辑其为 emacs
+git config core.editor emacs --global 
 
 * TODO 第二条待定
 

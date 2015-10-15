@@ -1,6 +1,6 @@
 
-* TODO 1
+* TODO 学会修改编辑其为 emacs
 
-* TODO 2
+* TODO 第二条待定
 
-* TODO 3
+* TODO 第三条待定

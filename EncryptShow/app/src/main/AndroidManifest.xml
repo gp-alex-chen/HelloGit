@@ -16,6 +16,10 @@
         <activity
             android:name=".SythEncryptActivity"
             android:label="@string/title_activity_syth_encrypt" >
+        </activity>
+        <activity
+            android:name=".RASActivity"
+            android:label="@string/title_activity_ras" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
